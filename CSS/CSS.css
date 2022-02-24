@@ -1,3 +1,9 @@
 body {
     background-color: #2F8686;
+    margin: 0;
+}
+
+#header {
+    height:117px;
+    background: #676161;
 }
