@@ -12,7 +12,7 @@ body {
     border-radius: 50px;
 }
 
-#pseudo {
+#E-mail {
     position: absolute;
     left: 37.55%;
     right: 37.55%;
@@ -22,32 +22,12 @@ body {
     border-radius: 50px;
 }
 
-#E-mail {
+#passeword{
     position: absolute;
     left: 37.55%;
     right: 37.55%;
     top: 38.24%;
     bottom: 51.2%;
-    background: #B5B4B4;
-    border-radius: 50px;
-}
-
-#passeword{
-    position: absolute;
-    left: 37.55%;
-    right: 37.55%;
-    top: 48.15%;
-    bottom: 41.3%;
-    background: #B5B4B4;
-    border-radius: 50px;
-}
-
-#passeword-2 {
-    position: absolute;
-    left: 37.03%;
-    right: 38.07%;
-    top: 60.65%;
-    bottom: 28.8%;
     background: #B5B4B4;
     border-radius: 50px;
 }
