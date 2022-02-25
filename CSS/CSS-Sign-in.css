@@ -26,10 +26,11 @@ body {
     position: absolute;
     left: 37.55%;
     right: 37.55%;
-    top: 38.24%;
-    bottom: 51.2%;
+    top: 35.65%;
+    bottom: 53.8%;
     background: #B5B4B4;
     border-radius: 50px;
+
 }
 
 #passeword{
@@ -44,8 +45,8 @@ body {
 
 #passeword-2 {
     position: absolute;
-    left: 37.03%;
-    right: 38.07%;
+    left: 37.55%;
+    right: 37.55%;
     top: 60.65%;
     bottom: 28.8%;
     background: #B5B4B4;
