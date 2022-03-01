@@ -84,18 +84,18 @@ header {
 }
 
 .doc{
-position: absolute;
-left: 33.55%;
-right: 36.2%;
-top: 12.87%;
-bottom: 92.13%;
-font-family: Roboto;
-font-style: normal;
-font-weight: normal;
-font-size: 40px;
-line-height: 47px;
-text-align: center;
-color: #000000;
+    position: absolute;
+    left: 33.55%;
+    right: 36.2%;
+    top: 12.87%;
+    bottom: 92.13%;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 40px;
+    line-height: 47px;
+    text-align: center;
+    color: #000000;
 }
 
 .background-contact{
@@ -155,7 +155,6 @@ color: #000000;
     right: 1.09%;
     top: 2.13%;
     bottom: 91.3%;
-
     background: #C4C4C4;
     border-radius: 50px;
 }
@@ -278,4 +277,61 @@ color: #000000;
     bottom: 68.33%;
     background: #B5B4B4;
     border-radius: 20px;
+}
+
+#FondImageDiscord {
+    position: absolute;
+    left: 17.4%;
+    right: 74.79%;
+    top: 27.5%;
+    bottom: 58.61%; 
+    background: rgba(196, 196, 196, 0.5);
+    border-radius: 100px;    
+}
+
+#FondImageTwitter {
+    position: absolute;
+    left: 46.72%;
+    right: 45.47%;
+    top: 27.5%;
+    bottom: 58.61%;   
+    background: rgba(196, 196, 196, 0.5);
+    border-radius: 100px;    
+}
+
+#FondImageYoutube {
+    position: absolute;
+    left: 75.83%;
+    right: 16.35%;
+    top: 27.5%;
+    bottom: 58.61%;   
+    background: rgba(196, 196, 196, 0.5);
+    border-radius: 100px;    
+}
+
+#FondTexteDiscord {
+    position: absolute;
+    left: 8.02%;
+    right: 65.42%;
+    top: 44.35%;
+    bottom: 5.09%;    
+    background: rgba(196, 196, 196, 0.5);    
+}
+
+#FondTexteTwitter {
+    position: absolute;
+    left: 37.34%;
+    right: 36.09%;
+    top: 44.35%;
+    bottom: 5.09%;   
+    background: rgba(196, 196, 196, 0.5);    
+}
+
+#FondTexteYoutube {
+    position: absolute;
+    left: 66.46%;
+    right: 6.98%;
+    top: 44.35%;
+    bottom: 5.09%;   
+    background: rgba(196, 196, 196, 0.5);    
 }
