@@ -134,7 +134,7 @@ header {
     border-radius: 50px;
 }
 
-.conect{
+.connect{
     position: absolute;
     left: 8.24%;
     right: 6.61%;
@@ -334,4 +334,9 @@ header {
     top: 44.35%;
     bottom: 5.09%;   
     background: rgba(196, 196, 196, 0.5);    
+}
+
+a {
+    text-decoration: none;
+    color: black;
 }
