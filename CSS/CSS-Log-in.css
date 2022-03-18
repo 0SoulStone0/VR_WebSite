@@ -61,3 +61,12 @@ body {
     background: #B5B4B4;
     border-radius: 50px;
 }
+
+
+#connectLOG-IN a{
+    position: absolute;
+    text-decoration: none;
+    color: black;
+    left: 25.91%;
+    top: 20.93%;
+}
